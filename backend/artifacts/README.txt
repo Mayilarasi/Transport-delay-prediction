@@ -1,0 +1,1 @@
+The training script writes delay_model.joblib and metrics.json here. If those files are absent, install requirements and run `python train_model.py` from backend. Metrics on synthetic data are only a pipeline demonstration, not real-world validation.
